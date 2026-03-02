@@ -2,7 +2,7 @@ import os
 from datetime import datetime
 
 # Files to exclude from the list
-exclude = ['generate_index.py', 'index.html', 'README.md#', '_redirects', '.git', '.github']
+exclude = ['generate_index.py', 'index.html', 'README.md', '_redirects', '.git', '.github']
 
 # Get files with metadata
 files_data = []
