@@ -73,7 +73,6 @@ html_content = f"""<!DOCTYPE html>
     </style>
 </head>
 <body>
-    <h1>INDEX OF ARCHIVES</h1>
     <table>
         <thead>
             <tr>
