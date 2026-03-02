@@ -1,7 +1,7 @@
 import os
 
 # Define files to exclude (like the script itself)
-exclude = ['generate_index.py', 'index.html', '_redirects']
+exclude = ['generate_index.py', 'index.html', '_redirects', 'README.md']
 
 # Get all files in the current directory
 files = [f for f in os.listdir('.') if os.path.isfile(f) and f not in exclude]
